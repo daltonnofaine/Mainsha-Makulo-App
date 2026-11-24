@@ -1,0 +1,14 @@
+{
+  "name": "Mainsha Makulu English",
+  "short_name": "MM English",
+  "description": "Aprenda inglês brincando com a comunidade Mainsha Makulu, Pemba",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0fb9b1",
+  "lang": "pt",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" },
+    { "src": "icons/icon-512.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "maskable" }
+  ]
+}
